@@ -10,7 +10,7 @@ Then create a .env file that will contain your private keys for security with ea
 1. PORT : The application port
 2. DATABASE: The database URL
 3. REDIS_URL: Redis host URL
-4. TOKEN: Secret Token for JWT can be any letters or Random letters
+4. TOKEN: Secret Token for JWT can be any Random letters/word
 5. SECRET: Secret letters for express-session
 
 Then start app with 
